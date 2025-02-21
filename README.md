@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @atulsinha1
 - 👀 I’m interested in developing my coding skills.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on
--  📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 💞️ I’m looking to collaborate on 
+- 📫 You could reach out to me over my e-mail - atulsinha96.alpha@gmail.com
+- 😄 he/him
 - ⚡ Fun fact: ...
 
 <!---
